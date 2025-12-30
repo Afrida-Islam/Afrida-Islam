@@ -1,4 +1,8 @@
 <h1 align="center">Hi 👋, I'm Afrida Islam Ritu</h1>
+
+<div align="center">
+  <img height="150" src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif"  />
+</div>
 <h3 align="center">A passionate frontend developer from Bangladesh</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=afrida-islam&label=Profile%20views&color=0e75b6&style=flat" alt="afrida-islam" /> </p>
